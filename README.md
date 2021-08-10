@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+This project is about creating a simple Rock, Paper, Scissors game using python. In addition, the random and time modules are used specifically to make a user play a game of Rock, Paper, Scissors with the computer in an efficient manner!
